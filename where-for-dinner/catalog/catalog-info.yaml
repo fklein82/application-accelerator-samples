@@ -14,6 +14,6 @@ spec:
     - ./components/hungryman-availability/hungryman-availability.yaml
     - ./components/hungryman-notify/hungryman-notify.yaml
     - ./groups/org.yaml
-    - ./systems/where-for-dinner-system.yaml
-    - ./resources/db/where-for-dinner-db-resource.yaml
-    - ./resources/messaging/where-for-dinner-messaging-resource.yaml  
+    - ./systems/hungryman-system.yaml
+    - ./resources/db/hungryman-db-resource.yaml
+    - ./resources/messaging/hungryman-messaging-resource.yaml  
